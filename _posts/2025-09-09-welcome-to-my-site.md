@@ -3,7 +3,7 @@ title: "Welcome to My Site 🚀"
 date: 2025-09-09 00:00:00 +0200
 categories: [Introduction]
 tags: [personal, welcome, about]
-pin: true
+pin: false
 description: "A first post to introduce myself and share what this site is all about."
 ---
 
